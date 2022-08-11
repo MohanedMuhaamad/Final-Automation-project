@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="30.376">
+<testcase classname="F02_Login | users could use login functionality to use their accounts" name="user could login with valid email and password" time="15.708">
+<system-out><![CDATA[Given user could login with valid email and password........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Register | User could register with valid data" name="guest user User could register with valid data successfully" time="14.556">
+<system-out><![CDATA[Given user go to register page..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
